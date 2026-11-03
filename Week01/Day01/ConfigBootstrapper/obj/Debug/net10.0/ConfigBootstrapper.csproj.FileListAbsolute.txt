@@ -1,0 +1,14 @@
+C:\Users\skspa\GatewayWeek1\ConfigBootstrapper\bin\Debug\net10.0\ConfigBootstrapper.exe
+C:\Users\skspa\GatewayWeek1\ConfigBootstrapper\bin\Debug\net10.0\ConfigBootstrapper.deps.json
+C:\Users\skspa\GatewayWeek1\ConfigBootstrapper\bin\Debug\net10.0\ConfigBootstrapper.runtimeconfig.json
+C:\Users\skspa\GatewayWeek1\ConfigBootstrapper\bin\Debug\net10.0\ConfigBootstrapper.dll
+C:\Users\skspa\GatewayWeek1\ConfigBootstrapper\bin\Debug\net10.0\ConfigBootstrapper.pdb
+C:\Users\skspa\GatewayWeek1\ConfigBootstrapper\obj\Debug\net10.0\ConfigBootstrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skspa\GatewayWeek1\ConfigBootstrapper\obj\Debug\net10.0\ConfigBootstrapper.AssemblyInfoInputs.cache
+C:\Users\skspa\GatewayWeek1\ConfigBootstrapper\obj\Debug\net10.0\ConfigBootstrapper.AssemblyInfo.cs
+C:\Users\skspa\GatewayWeek1\ConfigBootstrapper\obj\Debug\net10.0\ConfigBootstrapper.csproj.CoreCompileInputs.cache
+C:\Users\skspa\GatewayWeek1\ConfigBootstrapper\obj\Debug\net10.0\ConfigBootstrapper.dll
+C:\Users\skspa\GatewayWeek1\ConfigBootstrapper\obj\Debug\net10.0\refint\ConfigBootstrapper.dll
+C:\Users\skspa\GatewayWeek1\ConfigBootstrapper\obj\Debug\net10.0\ConfigBootstrapper.pdb
+C:\Users\skspa\GatewayWeek1\ConfigBootstrapper\obj\Debug\net10.0\ConfigBootstrapper.genruntimeconfig.cache
+C:\Users\skspa\GatewayWeek1\ConfigBootstrapper\obj\Debug\net10.0\ref\ConfigBootstrapper.dll
